@@ -39,6 +39,11 @@ npm run dev
 ```sh
 php artisan serve
 ```
+For testing
+
+```sh
+php artisan test
+```
 ###  It includes:
 **Data Generation and Seeders**
  - A data generator and seeders have been implemented for initial database population with 45 users. 
